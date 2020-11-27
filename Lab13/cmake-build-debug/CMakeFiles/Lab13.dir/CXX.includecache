@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/circleType.h
+pointType.h
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/pointType.h
+
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/cylinderType.cpp
+cylinderType.h
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/cylinderType.h
+iostream
+-
+cmath
+-
+
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/cylinderType.h
+circleType.h
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/circleType.h
+
+/Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/pointType.h
+

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Lab13.dir/main.cpp.o CMakeFiles/Lab13.dir/PointTypeImp.cpp.o CMakeFiles/Lab13.dir/circleTypeImp.cpp.o CMakeFiles/Lab13.dir/cylinderType.cpp.o -o Lab13 

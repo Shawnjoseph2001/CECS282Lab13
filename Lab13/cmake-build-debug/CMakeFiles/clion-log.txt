@@ -1,0 +1,4 @@
+/Applications/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/local/Cellar/make/4.3/bin/gmake -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /Users/shawn/Documents/GitHub/CECS282Lab13/Lab13
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shawn/Documents/GitHub/CECS282Lab13/Lab13/cmake-build-debug
