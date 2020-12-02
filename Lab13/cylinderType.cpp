@@ -39,7 +39,7 @@ double cylinderType::getVolume() const {
 }
 
 double cylinderType::getSurfaceArea() const {
-    return M_PI_4 * circleType::getRadius() * 2 * height;
+    return M_PI * circleType::getRadius() * 2 * (height + circleType::getRadius());
 }
 
 cylinderType::cylinderType(double x, double y, double r, double h) {
